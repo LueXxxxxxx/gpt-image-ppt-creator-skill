@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.venv/
+venv/
+env/
+.env
+.env.*
+
+*.log
+.DS_Store
+Thumbs.db
+
+# Generated deck artifacts
+slides/
+slides-final/
+slides-rendered/
+slides-processed/
+deck.pptx
+*.pptx
+outline.json
+style.md
+style-confirmation.png
+preview-contact-sheet.png
+generation-state.json
